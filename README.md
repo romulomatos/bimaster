@@ -1,10 +1,10 @@
 # BIMASTER
 Repositório dedicado ao desenvolvimento do TCC BIMASTER PUC-Rio
 
-# Título do Trabalho
+# Avaliação da acurácia das previsões de sucesso de poços exploratórios 
 
 #### Aluno: [Rômulo de Araújo Matos](https://github.com/romulomatos)
-#### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github).
+#### Orientador(/a/es/as): [Anderson Silva do Nascimento](https://github.com/link_do_github).
 
 ---
 
