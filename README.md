@@ -1,7 +1,7 @@
 # BIMASTER
 Repositório dedicado ao desenvolvimento do TCC BIMASTER PUC-Rio
 
-# Avaliação da acurácia das previsões de sucesso de poços exploratórios 
+# Avaliação de acurácia das previsões de sucesso de poços exploratórios 
 
 #### Aluno: [Rômulo de Araújo Matos](https://github.com/romulomatos)
 #### Orientador(/a/es/as): [Anderson Silva do Nascimento](https://github.com/link_do_github).
@@ -22,15 +22,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Proin suscipit sapien in maximus feugiat. Suspendisse potenti. Nunc sollicitudin ultrices pharetra. Nunc volutpat in nunc ac sagittis. Sed eu turpis non elit sagittis tempus. Etiam sapien nunc, mattis non justo non, imperdiet malesuada sapien. Vestibulum enim magna, venenatis quis purus id, blandit ullamcorper nunc. Aenean ut neque vehicula, malesuada metus in, congue massa.
+A avaliação de fatores de sucesso e de estimativas volumétricas são importante parte do trabalho de exploração da indústria de óleo e gás e insumos fundamentais às tomadas de decisões estratégicas. A análise sistemática da qualidade das estimativas realizadas frente aos resultados obtidos tem o potencial de melhorar as previsões ao possibilitar identificação de pontos críticos, padrões e/ou fatores chaves que determinam as diferenças de acurácia das estimativas para os diversos elementos avaliados. Aplicando uma metodologia originalmente desenvolvida para quantificar a acurácia de previsões meteorológicas, ao medir a distância entre o resultado observado e a previsão probabilística de eventos binários, foram obtidos os Índices de Brier e seus componentes relativos às previsões das probabilidades de descoberta de uma acumulação de hidrocarboneto e da ocorrência dos elementos do sistema petrolíferos associados a uma determinada oportunidade exploratória. Contando com os dados e avaliações de centenas de poços e oportunidades testadas foi possível verificar a aplicação dos índices na identificação de diferentes níveis de acurácia, na caracterização e constatação de eventuais padrões e vieses presentes nas avaliações. A identificação dos diferentes níveis de assertividade e os fatores a ela associados permitiria a melhor alocação de recursos e tem potencial de auxiliar as estimativas do valor da informação (VOI).
 
 ---
 
