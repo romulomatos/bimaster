@@ -1,7 +1,7 @@
 # BIMASTER
 Repositório dedicado ao desenvolvimento do TCC BIMASTER PUC-Rio
 
-# Avaliação de acurácia das previsões de sucesso de poços exploratórios 
+# Avaliação de acurácia de previsões de sucesso de poços exploratórios 
 
 #### Aluno: [Rômulo de Araújo Matos](https://github.com/romulomatos)
 #### Orientador(/a/es/as): [Anderson Silva do Nascimento](https://github.com/link_do_github).
@@ -10,13 +10,8 @@ Repositório dedicado ao desenvolvimento do TCC BIMASTER PUC-Rio
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
-
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
+- [Link para a monografia](https://github.com/romulomatos/bimaster/blob/main/BI-Master-Monografia-Romulo%20Matos_v280121.pdf).
 
 ---
 
